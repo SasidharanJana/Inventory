@@ -22,6 +22,15 @@ IBMS is a modular, configurable system that adapts to multiple industries (retai
 - [BI + AI Capabilities](docs/ai-bi.md)
 - [Product Roadmap](docs/roadmap.md)
 
+## Running Locally
+This repository currently contains product documentation only. There is no runnable application or service to start yet.
+
+If you want to begin implementation, the typical steps would be:
+1. Choose a tech stack and runtime (e.g., React + Node, Django, Rails).
+2. Scaffold the services (API, database, frontend) based on the architecture and data model.
+3. Add environment configuration, migrations, and seed data.
+4. Document setup commands here once an MVP codebase is in place.
+
 ## Next Steps
 1. Confirm target industries and compliance requirements.
 2. Select tech stack and hosting strategy (cloud, on-prem, hybrid).
